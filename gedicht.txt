@@ -5,4 +5,5 @@ orange
 gelb
 grün
 blau
+violett
 Dies sind die Farben des Regenbogens.

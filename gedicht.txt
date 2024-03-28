@@ -1,0 +1,7 @@
+Der Regenbogen
+
+rot
+orange
+gelb
+grün
+Dies sind die Farben des Regenbogens.

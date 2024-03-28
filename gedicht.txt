@@ -1,4 +1,4 @@
-Der Regenbogen
+Der Regenbogen und das Einhorn
 
 rot
 orange
@@ -7,3 +7,4 @@ grün
 blau
 violett
 Dies sind die Farben des Regenbogens.
+Und das Einhorn.

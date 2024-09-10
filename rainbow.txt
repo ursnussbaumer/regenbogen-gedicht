@@ -1,1 +1,3 @@
-
+Das sind die Farben des Regenbogens: 
+- rot 
+- blau

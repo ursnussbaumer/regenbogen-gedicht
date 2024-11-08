@@ -1,6 +1,6 @@
 Dies sind die Farben des Regenbogens.
 
-- rot 
+- orange 
 - gelb 
 - blau 
 - violett
